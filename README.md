@@ -1,6 +1,7 @@
 Continuous Integration Demo
 ===========================
 [![Run unit tests](https://github.com/jee-gamer/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/jee-gamer/ci-demo/actions/workflows/python-unittest.yml)
+[![Run Flake8 and Flake8 Docstrings](https://github.com/jee-gamer/ci-demo/actions/workflows/python-flake8.yml/badge.svg)](https://github.com/jee-gamer/ci-demo/actions/workflows/python-flake8.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
